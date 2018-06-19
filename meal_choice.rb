@@ -3,9 +3,7 @@ def snacks(food="Cheetos")
   "Any time, is the right time for #{food}!"
 end
 
-def breakfast(meal="pancakes")
-  "Morning is the best time for #{{meal}!"
-end
+
 
 
 
